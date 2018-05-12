@@ -1,0 +1,33 @@
+_repo: Blue-Ridge-Country_25413
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 25413-h/images/illus-cover.jpg
+creator:
+  author:
+    agent_name: Thomas, Jean
+    alias: Thomas, Jeannette Bell
+    birthdate: 1881
+    gutenberg_agent_id: '31319'
+    url: http://www.gutenberg.org/2009/agents/31319
+  editor:
+    agent_name: Caldwell, Erskine
+    birthdate: 1903
+    deathdate: 1987
+    gutenberg_agent_id: '31318'
+    url: http://www.gutenberg.org/2009/agents/31318
+description: ''
+gutenberg_issued: '2008-05-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25413'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Blue Ridge Mountains'
+- !lcsh 'Appalachians (People)'
+- !lcc 'F206'
+title: Blue Ridge Country
+url: http://www.gutenberg.org/ebooks/25413
